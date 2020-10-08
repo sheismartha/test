@@ -15,6 +15,20 @@
 
 Δεν έχω ιδιαίτερη εργασιακή εμπειρία σε προγραμματισμό, παρά μόνο σε επίπεδο σπουδών. Στην εργασία μου ασχολούμαι με ανάλυση, αξιολόγηση και υποστήριξη εφαρμογών.
 
+| ΠΤΥΧΙΟ | ΠΑΝΕΠΙΣΤΗΜΙΟ ΣΧΟΛΗ | ΕΤΟΣ ΑΠΟΚΤΗΣΗΣ | 
+| ---- | ---- | ---- | 
+| ΠΛΗΡΟΦΟΡΙΚΗ | ΕΑΠ | 2018 | 
+| ΔΗΜΟΣΙΟΓΡΑΦΙΑ | ΕΡΓ ΕΠΑΓΓΕΛΜΑΤΙΚΗΣ ΔΗΜΟΣΙΟΓΡΑΦΙΑΣ | 1995 |
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 ```markdown
 Syntax highlighted code block
 
