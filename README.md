@@ -2,14 +2,10 @@
 
 Λίγα Λόγια….
 
-Είμαι δημόσιος υπάλληλος στη Διεύθυνση Πληροφορικής και Νέων Τεχνολογιών της Βουλής των Ελλήνων από το 2003.
-
-You can use the [editor on GitHub](https://github.com/sheismartha/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Είμαι δημόσιος υπάλληλος στη Διεύθυνση Πληροφορικής και Νέων Τεχνολογιών της [Βουλής των Ελλήνων](https://hellenic) από το 2003.
 
 ```
-Έχω τελειώσει το τμήμα Πληροφορικής του [ΕΑΠ](https://www.eap.gr/) το 2018. 
+Έχω τελειώσει το τμήμα Πληροφορικής του το 2018. 
 Αυτή τη στιγμή παρακολουθώ το Μεταπτυχιακό Πρόγραμμα του ΕΑΠ «Συστήματα Διάχυτου Υπολογισμού». 
 Έχω ολοκληρώσει τις δύο πρώτες ενότητες του προγράμματος ΣΔΥ50 και ΣΔΥ51 και φέτος έχω επιλέξει 
 τις επόμενες δύο και τελευταίες ενότητες ΣΔΥ60, ΣΔΥ61.
