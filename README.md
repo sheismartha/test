@@ -13,7 +13,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Δεν έχω ιδιαίτερη εργασιακή εμπειρία σε προγραμματισμό, παρά μόνο σε επίπεδο σπουδών. Στην εργασία μου ασχολούμαι με ανάλυση, αξιολόγηση και υποστήριξη εφαρμογών.
 
 ```markdown
 Syntax highlighted code block
